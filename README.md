@@ -1,1 +1,4 @@
-# PDC-e2e-teste-e2e01
+# Projeto de teste do PDC
+
+Criado pelo E2E de `POST /api/github/repos`.
+Acentuação: ação, coração, ímã.
